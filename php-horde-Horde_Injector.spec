@@ -9,7 +9,7 @@ License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	ae9e0374a8ca213863b5574fcaa4aab8
-URL:		http://pear.horde.org/package/Horde_Injector/
+URL:		https://github.com/horde/horde/tree/master/framework/Injector/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
