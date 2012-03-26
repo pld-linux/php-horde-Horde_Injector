@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde dependency injection container
 Name:		php-horde-Horde_Injector
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	ae9e0374a8ca213863b5574fcaa4aab8
+# Source0-md5:	0cfce0008b96aed216168a7464abf77c
 URL:		https://github.com/horde/horde/tree/master/framework/Injector/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
