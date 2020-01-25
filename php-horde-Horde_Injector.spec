@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Injector
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde dependency injection container
 Name:		php-horde-Horde_Injector
 Version:	1.0.1
